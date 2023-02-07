@@ -1,0 +1,500 @@
+   65          OneDrive/
+   66          Pictures/
+   67          Saved Games/
+   68          Searches/
+   69          Videos/
+   70          miniconda3/
+   71          ntuser.dat.LOG1
+   72          ntuser.dat.LOG2
+   73          ntuser.ini
+   74          welcom.py
+   75  nothing added to commit but untracked files present (use "git add" to track)
+   76  Lungile@LAPTOP-6R2TCT8I MINGW64 ~ (master)
+   77  $ git config user.name "Thobile Mvuni"
+   78  Lungile@LAPTOP-6R2TCT8I MINGW64 ~ (master)
+   79  $ git config user.email thoyomvuni@gmail.com
+   80  Lungile@LAPTOP-6R2TCT8I MINGW64 ~ (master)
+   81  $ git status
+   82  warning: could not open directory 'Application Data/': Permission denied
+   83  warning: could not open directory 'Cookies/': Permission denied
+   84  warning: could not open directory 'Local Settings/': Permission denied
+   85  warning: could not open directory 'My Documents/': Permission denied
+   86  warning: could not open directory 'NetHood/': Permission denied
+   87  warning: could not open directory 'PrintHood/': Permission denied
+   88  warning: could not open directory 'Recent/': Permission denied
+   89  warning: could not open directory 'SendTo/': Permission denied
+   90  warning: could not open directory 'Start Menu/': Permission denied
+   91  warning: could not open directory 'Templates/': Permission denied
+   92  On branch master
+   93  No commits yet
+   94  Untracked files:
+   95    (use "git add <file>..." to include in what will be committed)
+   96          .bash_history
+   97          .gitconfig
+   98          .lesshst
+   99          .vscode/
+  100          3D Objects/
+  101          AppData/
+  102          Contacts/
+  103          Desktop/
+  104          Documents/
+  105          Downloads/
+  106  git branch
+  107  git --version
+  108  git config user.name "Thobile Mvuni"
+  109  git config user.email thoyomvuni@gmail.com
+  110  git branch
+  111  git branch -M main
+  112  git init
+  113  git branch
+  114  git status
+  115  cd
+  116  cd desktop
+  117  EDA
+  118  cd EDA
+  119  git status
+  120  ls
+  121  git branch
+  122  git remote add origin https://github.com/Umuzi-org/Thobile-Mvuni-648-bootcamp-exploratory-data-analysis-python.git
+  123  git push
+  124  git push origin HEAD:master
+  125  git status
+  126  git remote -v
+  127  git push origin master
+  128  git push origin main
+  129  git pull
+  130  git push -u origin main
+  131  git push
+  132  git push origin HEAD
+  133  git push --force origin main
+  134  git status
+  135  clear
+  136  git checkout main
+  137  git pull
+  138  git -M main
+  139  git status
+  140  cd
+  141  cd desktop
+  142  cd Thobile level1
+  143  Thobile level1
+  144  cd task1
+  145  cd level1
+  146  cd task1
+  147  cd desktop
+  148  checkout
+  149  git checkout main
+  150  checkout level1
+  151  git checkout main
+  152  clear
+  153  git revert
+  154  git status
+  155  git init
+  156  git add .
+  157  git status
+  158  git commit
+  159  git status
+  160  git init
+  161  git add .
+  162  git status
+  163  git init
+  164  cd
+  165  cd desktop
+  166  cd task1
+  167  git init
+  168  git add .
+  169  git commit -m "Finished"
+  170  git branch
+  171  git branch -M main
+  172  git branch
+  173  git remote add origin [200~https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python.git~
+  174  git push
+  175   git push --set-upstream origin main
+  176  git push -u origin main
+  177  git push 
+  178  git push --set-upstream origin main
+  179  git push remote https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python.git
+  180  git push origin main 
+  181  git push origin main https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python.git
+  182  git add remote origin https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python
+  183  git add remote origin 
+  184  git add remote origin https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python.git
+  185  git push https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python.git main
+  186  git push https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python.git
+  187  git pull
+  188  git checkout master
+  189  git checkout main
+  190  git _m master
+  191  git -M master
+  192  git push task1
+  193  git push remote https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python.git 
+  194  remote -V
+  195  remote -v
+  196  checkout master
+  197  checkout branch master
+  198  git checkout branch master
+  199  git remote add -u origin https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python  
+  200  git remote add origin https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python
+  201  git push -u origin main
+  202  git pull
+  203  git push -u origin main
+  204  git pusu -u origin main
+  205  git push -u origin main
+  206  git add remote https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python.git
+  207  git add remote origin https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python.git
+  208  git push -u origin main https://github.com/Umuzi-org/Thobile-Mvuni-219-level-1-programming-katas-python.git
+  209  clear
+  210  git status
+  211  git add .
+  212  git status
+  213  git init
+  214  git status
+  215  git commit -m "Task1"
+  216  cd
+  217  cd desktop
+  218  task1
+  219  cd task1
+  220  git status
+  221  git add .
+  222  git status
+  223  git --version
+  224  cd
+  225  cd desktop
+  226  cd EDA
+  227  git init
+  228  git status
+  229  git status
+  230  clear
+  231  git status
+  232  cd EDA
+  233  git status
+  234  git --version
+  235  cd
+  236  cd desktop
+  237  EDA
+  238  cd EDA
+  239  git status
+  240  cd desktop EDA
+  241  EDA
+  242  cd EDA
+  243  git init
+  244  git status
+  245  ls
+  246  git add .
+  247  git satus
+  248  git status
+  249  git remote add origin https://github.com/Umuzi-org/Thobile-Mvuni-648-bootcamp-exploratory-data-analysis-python.git
+  250  git push -u origin main
+  251  git pull
+  252  git push -u origin main
+  253  git clone https://github.com/Umuzi-org/Thobile-Mvuni-648-bootcamp-exploratory-data-analysis-python.git
+  254  git fetch https://github.com/Umuzi-org/Thobile-Mvuni-648-bootcamp-exploratory-data-analysis-python.git
+  255  git merge https://github.com/Umuzi-org/Thobile-Mvuni-648-bootcamp-exploratory-data-analysis-python.git / main
+  256  git merge main
+  257  git pull main
+  258  git push -u origin
+  259  git push origin HEAD:master
+  260  git push -u origin main
+  261  git pull origin main
+  262  clear
+  263  git status
+  264  git reset --hard
+  265  git status
+  266  git clean -fdx
+  267  git status
+  268  ls
+  269  git pull origin main --allow-unrelated-histories
+  270  git --version
+  271  git status
+  272  cd
+  273  cd desktop
+  274  EDA
+  275  cd EDA
+  276  git status
+  277  ls
+  278  git pull
+  279  git config
+  280  clear
+  281  git cnfig user.name "Bongiwe Mvuni"
+  282  clear
+  283  git config user.name "Bongiwe Mvuni"
+  284  git config user.email bongiwesmvuni@gmail.com
+  285  git status
+  286  git checkout main/task1
+  287  ls
+  288  cd desktop 
+  289  cd Task1
+  290  git status
+  291  ls 
+  292  git init 
+  293  git status
+  294  git checkout branch -M main
+  295  git checkout branch main
+  296  git status
+  297  git add.
+  298  git add .
+  299  git status
+  300  git commit -m "task1"
+  301  git remote add origin https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python
+  302  git remote -v
+  303  git push -u origin 
+  304   git push --set-upstream origin master
+  305  git checkout branch main
+  306  git branch -M main
+  307  ls
+  308  git push -u origin 
+  309      git push --set-upstream origin main
+  310  git pull
+  311  git remote add -u origin https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  312  git push -u origin
+  313   git push --set-upstream origin main
+  314  git clone gh repo clone Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python
+  315  git main gh repo clone Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python
+  316  git clone gh repo clone Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python
+  317  git clone gh repo clone Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python/ bongiwemvuni
+  318  git clone https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  319  git push -u origin main
+  320  git push -- help
+  321  git help
+  322  git help push
+  323  git clone gh repo clone Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python
+  324  git clone https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  325  git push -u origin
+  326    git push --set-upstream origin main
+  327  git push origin main --force
+  328  git fetch origin
+  329  git fetch origin main
+  330  git merge main
+  331  git fetch origin main:tmp
+  332  git rebase tmp
+  333  git push origin HEAD:main
+  334  git branch -D tmp
+  335  cd desktop 
+  336  cd task1
+  337  git branch main
+  338  checkout task1
+  339  git checkout task1
+  340  cd desktop
+  341  /c/Users/Lungile/Desktop/task1.py
+  342  cd /c/Users/Lungile/Desktop/task1.py
+  343  cd desktop/task1.py
+  344  git version
+  345  git config user.name "Bongiwe Mvuni"
+  346  git config user.email bongiwesmvuni@gmail.com
+  347  git checkout main
+  348  git checkout main
+  349  git branch -M main
+  350  cd desktop
+  351  cd task1
+  352  git status
+  353  ls
+  354  git add .
+  355  git status
+  356  git restore --staged
+  357  git restore task1.py
+  358  git log
+  359  git status
+  360  clear
+  361  git --version
+  362  git config --global user.name "Bongiwe Mvuni"
+  363  git config --global user.email bongiwesmvuni@gmail.com
+  364  git config --list
+  365  checkout main
+  366  git branch -M main
+  367  git pull
+  368  checkout -b task/2
+  369  git checkout -b task/2
+  370  touch task2.py
+  371  vscode task2.py
+  372  vs.code task2.py
+  373  code task2.py
+  374  git status
+  375  git init 
+  376  git status
+  377  git add task2.py
+  378  git add task2.py
+  379  git status
+  380  git add task2.py
+  381  rm -Rf task2.py
+  382   touch task2.py
+  383  code task2.py
+  384  git status
+  385  git add task2.py
+  386  git checkout main
+  387  git checkout -M main
+  388  git branch -M main
+  389  git branch task/2
+  390  git checkout task/2
+  391  git branch task/2
+  392  git pull
+  393  git checkout task/2
+  394  git checkout -b task/2
+  395  touch task2.py
+  396  code task2.py
+  397  git status
+  398  git add task2.py
+  399  git add .
+  400  git add task2.py
+  401  git add task2.py
+  402  cd desktop
+  403  cd Task2
+  404  git status
+  405  git init
+  406  git status
+  407  git add .
+  408  git commit -m "task2"
+  409  git status
+  410  git remote add origin https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  411  push origin main
+  412  git push origin main
+  413  git clone https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  414  git pull
+  415  git push origin main
+  416  git checkout task/2
+  417  git branch task/2
+  418  git push origin task/2
+  419  ls
+  420  git add remote origin https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  421  git fetch origin
+  422  git push origin task/2
+  423  git merge add_db
+  424  git pull https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  425  main--allow-unrelated-histories
+  426  git pull origin task/2 --allow-unrelated-histories
+  427  git pull main --allow-unrelated-histories
+  428  git pull origin main https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  429  git pull origin main https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  430  git pull origin main https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  431  git pull origin https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  432  git pull origin task/2 https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  433  git checkout task/2
+  434  git pull origin main https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  435  git pull
+  436  git add remote origin https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  437  git remote 
+  438  git remot version
+  439  git clone https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  440  git push origin task/2 --force
+  441  git clone https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  442  git pull https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  443  git pull origin main --allow-unrelated-histories
+  444  git push origin task/2
+  445  git checkout branch main
+  446  git  branch -M main
+  447  git cheackout -b task/3
+  448  git checkout -b task/3
+  449  touch task3.py
+  450  code task3.py
+  451  git init
+  452  git status
+  453  git add task3.py
+  454  git push origin task/3
+  455  git branch -M main
+  456  git checkout -b task/4
+  457  touch task4.py
+  458  code task4.py
+  459  git init
+  460  git status
+  461  git add task4.py
+  462  git commit -m "task4"
+  463  git status
+  464  git remote add origin https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  465  git push origin task/4
+  466  git checkout task/2
+  467  git status
+  468  touch task2.py
+  469  code task2.py
+  470  git init
+  471  git status
+  472  git add task2.py
+  473  git commit -m "task2"
+  474  git push origin task/2
+  475  git checkout task/3
+  476  touch task3.py
+  477  code task3.py
+  478  git status
+  479  git add task3.py
+  480  git commit - m "task3"
+  481  git commit -m "task3"
+  482  git status
+  483  ls
+  484  git remote add origin https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  485  git push task/3
+  486  git push origin task/3
+  487  git clone https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  488  git pull origin main https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  489  git pull origin https://github.com/Umuzi-org/Bongiwe-Mvuni-219-level-1-programming-katas-python.git
+  490  cd desktop
+  491  git branch -M main
+  492  cd desktop 
+  493  git checkout task/2
+  494  git status
+  495  git push origin task/2
+  496  git checkout task/3
+  497  git status
+  498  git push origin task/3
+  499  git checkout task/1
+  500  cd task/1
+  501  git branch -M main
+  502  mkdir git-basic-exercises
+  503  cd git-basic-exercises
+  504  ls-a
+  505  ls
+  506  ls -a
+  507  git init
+  508  ls -a
+  509  git status
+  510  touch README.md
+  511  ls -a
+  512  git status
+  513  git log
+  514  git add README.md
+  515  git status
+  516  git reset README.md
+  517  git status
+  518  git add README.md
+  519  git status
+  520  git commit -m "initial commit"
+  521  git log 
+  522  q
+  523  git q
+  524  nano README.md
+  525  cat README.md
+  526  git status
+  527  git add README.md
+  528  git status
+  529  git reset README.md
+  530  git status
+  531  git commit -m "second commit"
+  532  git add README.md
+  533  git status
+  534  git commit -m "second commit"
+  535  git status
+  536  nano README.md
+  537  cat README.md
+  538  git status
+  539  git add README.md
+  540  git status
+  541  git commit -m "third commit"
+  542  git log
+  543  git checkout d2328d6260d1aa8fbd6b1d40a89e7dc74fcc0983
+  544   
+  545  cat README.md
+  546  git checkout main
+  547  cat README.md
+  548   git checkout -b milkshake-flavours
+  549  git branch
+  550  git checkout main
+  551  git branch
+  552  git checkout milkshake-flavours
+  553  nano milkshakes.md
+  554  git status
+  555  git add milkshakes.md
+  556  git status
+  557  git commit -m "added initial flavours"
+  558  git log
+  559  git checkout main
+  560  git log
+  561  git checkout -b history
+  562  git log
+  563  git branch
+  564  history > history.txt
